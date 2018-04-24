@@ -38,5 +38,17 @@ public class loginController {
 		}
 		
 	}
+	
+	@RequestMapping(value="/retrieve", method = RequestMethod.GET)
+	public void retrive() {
+		try{
+			jdbctemplate.execute("select id from user where username like 'sitha')");
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
 }
 
