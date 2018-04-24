@@ -1,0 +1,9 @@
+# H2
+Spring.h2.console.enabled = true
+Spring.h2.console.path=/h2
+
+#Datasource
+Spring.datasource.url=jdbc:h2:file:=/logindb
+Spring.datasource.username=sa
+Spring.datasource.password=admin
+Spring.datasource.driver-class-nme=org.h2.Driver

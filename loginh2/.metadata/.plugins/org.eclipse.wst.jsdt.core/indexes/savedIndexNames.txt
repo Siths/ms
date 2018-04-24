@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\loginh2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2987090048.index
+2560223023.index
+3375504788.index
+3769656362.index
+2200338558.index
+3259293056.index

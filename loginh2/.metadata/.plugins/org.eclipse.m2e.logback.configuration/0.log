@@ -1,0 +1,213 @@
+2018-04-23 14:04:57,121 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-23 14:09:07,912 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:09:11,109 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 14:09:11,111 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:09:11,139 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:09:11,173 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 14:09:15,201 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2018-04-23 14:09:15,205 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 14:09:16,359 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:09:19,171 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 14:09:19,172 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:09:19,172 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:09:19,175 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 14:09:21,608 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for loginh2
+2018-04-23 14:09:21,671 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2018-04-23 14:09:26,429 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:09:26,436 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:09:26,458 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:09:26,463 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:09:26,463 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:09:26,464 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 14:09:26,466 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 14:09:26,474 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:11:21,712 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 14:11:23,060 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:11:25,587 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 14:11:25,588 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:11:25,588 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:11:25,589 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 14:11:27,093 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for loginh2
+2018-04-23 14:11:27,185 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2018-04-23 14:11:29,322 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:11:29,323 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:11:29,412 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:11:29,419 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:11:29,419 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:11:29,420 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 14:11:29,422 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 14:11:29,432 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:11:46,987 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-04-23 14:16:52,910 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:16:52,912 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml 
+2018-04-23 14:16:53,031 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:16:53,035 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:16:53,038 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:16:53,041 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:16:53,042 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:18:38,050 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:18:38,050 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:18:38,051 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:18:38,053 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:18:38,054 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:18:47,516 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:18:47,522 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:18:47,525 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:18:47,527 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:18:47,527 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:21:03,355 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-04-23 14:21:05,169 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:21:05,170 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml 
+2018-04-23 14:21:40,545 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 14:21:41,339 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:21:42,868 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 14:21:42,870 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:21:42,871 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:21:42,872 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 14:21:43,912 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for loginh2
+2018-04-23 14:21:43,923 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-04-23 14:21:44,624 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:21:44,625 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:21:44,803 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:21:44,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:21:44,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:21:44,810 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 14:21:44,810 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 14:21:44,818 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:22:03,976 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-04-23 14:22:12,241 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:22:12,241 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 14:44:29,116 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:44:29,118 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:44:29,122 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:44:29,124 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:44:29,124 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:46:48,220 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:46:48,220 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 14:47:07,964 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:47:07,964 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 14:50:21,491 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:50:21,491 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:50:21,498 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:50:21,501 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:50:21,501 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:50:32,138 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:50:32,138 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 14:53:37,342 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:37,344 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:53:37,347 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:53:37,350 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:37,351 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:53:44,580 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:44,582 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:53:44,584 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:53:44,586 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:44,586 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:53:57,682 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:57,683 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:53:57,686 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:53:57,688 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:53:57,688 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:54:18,172 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:54:18,174 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:54:18,176 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:54:18,181 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:54:18,181 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:54:40,800 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:54:40,806 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:54:40,810 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:54:40,813 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:54:40,813 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:56:42,028 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:56:44,562 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:56:44,568 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:56:44,597 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:56:44,603 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:56:44,603 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:56:44,604 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 14:56:44,605 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 14:56:44,616 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:56:46,118 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:56:46,124 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:56:46,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:56:46,130 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:56:46,130 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:57:06,817 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 14:57:07,562 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 14:57:09,662 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 14:57:09,662 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:57:09,663 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 14:57:09,663 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 14:57:10,680 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for loginh2
+2018-04-23 14:57:10,715 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-04-23 14:57:11,470 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:57:11,471 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 14:57:11,491 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 14:57:11,495 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:57:11,495 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 14:57:11,499 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 14:57:11,500 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 14:57:11,504 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 14:57:22,262 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-04-23 14:57:22,301 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 14:57:22,302 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 15:08:00,808 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:08:00,810 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:08:00,818 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:08:00,820 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:08:00,821 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:15:55,588 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:15:55,590 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:15:55,595 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:15:55,598 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:15:55,600 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:18:57,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:18:57,957 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:18:57,960 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:18:57,962 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:18:57,962 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:20:04,635 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 15:20:04,636 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 15:26:31,666 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:26:31,666 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:26:31,668 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:26:31,670 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:26:31,670 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:27:02,236 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:27:02,246 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:27:02,248 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:27:02,250 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:27:02,250 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:27:06,425 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 15:27:06,426 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-23 15:41:03,191 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:41:03,192 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:41:03,194 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:41:03,197 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:41:03,198 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:41:30,434 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-23 15:41:31,374 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-23 15:41:33,373 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/main/java
+2018-04-23 15:41:33,374 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 15:41:33,375 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginh2/src/main/resources
+2018-04-23 15:41:33,375 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginh2/src/test/java
+2018-04-23 15:41:34,275 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for loginh2
+2018-04-23 15:41:34,282 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-04-23 15:41:34,995 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:41:34,996 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-23 15:41:35,011 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-23 15:41:35,013 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:41:35,013 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
+2018-04-23 15:41:35,014 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginh2
+2018-04-23 15:41:35,014 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginh2
+2018-04-23 15:41:35,017 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-23 15:41:44,527 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-04-23 15:41:44,611 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\loginh2\loginh2
+2018-04-23 15:41:44,611 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -s C:\Users\st9637\.loginh2\settings.xml clean install
+2018-04-24 11:38:02,599 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.online:loginh2:0.0.1-SNAPSHOT @ C:\loginh2\loginh2\pom.xml.
+2018-04-24 11:38:11,259 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-24 11:38:18,175 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-24 11:38:18,181 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-24 11:38:18,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-24 11:38:18,210 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-24 11:38:18,210 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\loginh2\loginh2\src\test\resources
